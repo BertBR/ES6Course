@@ -1,4 +1,4 @@
-#ES6 Course
+# ES6 Course
 
 Please use it wisely. Do not check the question anwsers if you didn't finish the course yet! ✍️
 
